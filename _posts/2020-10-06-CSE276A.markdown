@@ -1,0 +1,15 @@
+---
+layout: post
+title:  CSE276A -  Introduction to Robotics
+date:   2020-10-06 09:21:59 +00:00
+image: /images/cse276A.png
+categories: Teaching
+author: "Shiladitya Biswas"
+authors: 
+venue: 
+arxiv: 
+code: 
+website: https://hichristensen.com/CSE276A-24/
+---
+
+Was a teaching assitant under Prof Henrk Christensen at UC Sann Diego for the Fall 2020 quarter.
