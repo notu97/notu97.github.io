@@ -12,4 +12,4 @@ code:
 website: https://github.com/NVSL/QuadClass-Resources/tree/master
 ---
 
-Was a teaching assitant under Prof Steven Swanson at UC Sann Diego for the Winter 2021 quarter.
+Was a teaching assitant under Prof Steven Swanson at UC San Diego for the Winter 2021 quarter.

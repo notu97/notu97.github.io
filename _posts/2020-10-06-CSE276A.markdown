@@ -12,4 +12,4 @@ code:
 website: https://hichristensen.com/CSE276A-24/
 ---
 
-Was a teaching assitant under Prof Henrk Christensen at UC Sann Diego for the Fall 2020 quarter.
+Was a teaching assitant under Prof Henrk Christensen at UC San Diego for the Fall 2020 quarter.

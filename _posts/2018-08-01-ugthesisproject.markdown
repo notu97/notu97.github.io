@@ -11,4 +11,4 @@ arxiv:
 code: https://github.com/srivatsa96/DeepDrive
 website: 
 ---
-We desineged a cloud based end-to-end self-driving car prototype. This was presented at the Intel AI DevCon 2018 , San Francisco.
+We designed a cloud based end-to-end self-driving car prototype. This was presented at the Intel AI DevCon 2018 , San Francisco.
