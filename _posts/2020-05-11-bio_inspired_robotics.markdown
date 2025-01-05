@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bio-Inspired Robotics"
-date:   2022-05-11 22:21:59 +00:00
+date:   2020-05-11 22:21:59 +00:00
 image: /images/bio_robot.gif
 categories: project
 report: /pdfs/MAE207.pdf
