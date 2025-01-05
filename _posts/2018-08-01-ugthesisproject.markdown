@@ -6,7 +6,7 @@ image: /images/ugthesisposter.jpeg
 categories: project
 author: "Shiladitya Biswas"
 authors: "<strong>Shiladitya Biswas</strong>, Srivatsa Sinha, Gajal Vasita"
-venue: "arXiv"
+venue: "BIT Mesra"
 arxiv: 
 code: https://github.com/srivatsa96/DeepDrive
 website: 

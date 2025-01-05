@@ -6,7 +6,7 @@ image: /images/hilsimulator.png
 categories: research
 author: "Shiladitya Biswas"
 authors: "<strong>Shiladitya Biswas</strong>, Arun Dayal Udai, Gaurav Kumar"
-venue: "arXiv"
+venue: "BIT Mesra"
 arxiv: 
 code: 
 website: https://link.springer.com/chapter/10.1007/978-981-13-8222-2_16

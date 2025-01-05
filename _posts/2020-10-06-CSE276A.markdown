@@ -6,7 +6,7 @@ image: /images/cse276A.png
 categories: Teaching
 author: "Shiladitya Biswas"
 authors: 
-venue: 
+venue: "UC San Diego"
 arxiv: 
 code: 
 website: https://hichristensen.com/CSE276A-24/

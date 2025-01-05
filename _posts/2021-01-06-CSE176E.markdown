@@ -6,7 +6,7 @@ image: /images/quad.jpg
 categories: Teaching
 author: "Shiladitya Biswas"
 authors:
-venue: 
+venue: "UC San Diego"
 arxiv: 
 code: 
 website: https://github.com/NVSL/QuadClass-Resources/tree/master

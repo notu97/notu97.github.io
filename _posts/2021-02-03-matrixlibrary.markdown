@@ -6,7 +6,7 @@ image: /images/Matrix_lib_logo.png
 categories: project
 author: "Shiladitya Biswas"
 authors: "<strong>Shiladitya Biswas</strong>"
-venue: "arXiv"
+venue: 
 arxiv: 
 video: https://www.youtube.com/watch?v=dxE6y6lPbyI
 code: https://github.com/notu97/Matrix-Library

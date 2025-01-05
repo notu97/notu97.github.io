@@ -4,10 +4,10 @@ title:  "Bio-Inspired Robotics"
 date:   2022-05-11 22:21:59 +00:00
 image: /images/bio_robot.gif
 categories: project
-poster: /pdfs/MAE207.pdf
+report: /pdfs/MAE207.pdf
 author: 
 authors: "<strong>Shiladitya Biswas</strong>, Saurabh Mirani, Joseph Bell, James Salem"
-venue: 
+venue: "UC San Diego"
 arxiv: 
 code: https://github.com/notu97/Bio-Inspired-Robotics/tree/master
 website: 
