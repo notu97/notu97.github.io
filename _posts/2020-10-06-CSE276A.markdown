@@ -6,10 +6,11 @@ image: /images/cse276A.png
 categories: Teaching
 author: "Shiladitya Biswas"
 authors: 
-venue: "UC San Diego"
+venue:
 arxiv: 
 code: 
 website: https://hichristensen.com/CSE276A-24/
+affiliation: "UC San Diego"
 ---
 
 Was a teaching assitant under Prof Henrk Christensen at UC San Diego for the Fall 2020 quarter.

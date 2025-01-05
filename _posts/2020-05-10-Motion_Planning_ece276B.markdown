@@ -7,10 +7,12 @@ categories: project
 report: /pdfs/ECE276B_PR2_Report.pdf
 author: 
 authors: "<strong>Shiladitya Biswas</strong>"
-venue: "UC San Diego"
+venue: 
 arxiv: 
 code: 
 website: 
 youtube: 
+affiliation: "UC San Diego"
+
 ---
 Implemented and compared the performance of A* and Rapidly expanding Random Tree (RRT*) Algorithm in terms of planning time and path length on multiple 3D environments with obstacles in Python. This was a course project for [ECE276B](https://natanaso.github.io/ece276b2020/) at UC San Diego, hence the code cannot me made public.

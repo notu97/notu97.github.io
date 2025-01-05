@@ -6,10 +6,11 @@ image: /images/quad.jpg
 categories: Teaching
 author: "Shiladitya Biswas"
 authors:
-venue: "UC San Diego"
+venue:
 arxiv: 
 code: 
 website: https://github.com/NVSL/QuadClass-Resources/tree/master
+affiliation: "UC San Diego"
 ---
 
 Was a teaching assitant under Prof Steven Swanson at UC San Diego for the Winter 2021 quarter.

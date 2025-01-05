@@ -78,9 +78,13 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              {{post.authors}}
+              {% if cat == 'research' %}
+              {{post.authors}}<br>
+              {% endif %}
+
+              {{post.affiliation}}
               
-              {% if post.arxiv %}
+              {% if cat == 'research' %}
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               <br>
@@ -281,7 +285,8 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              <em>{{post.categories}} {{post.course}}</em>
+              <em>{{post.categories}}, {{post.affiliation}}</em>
+
               <br>
               {{ post.date | date: "%Y-%m-%d" }}
 

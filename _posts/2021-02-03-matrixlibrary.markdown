@@ -11,5 +11,6 @@ arxiv:
 video: https://www.youtube.com/watch?v=dxE6y6lPbyI
 code: https://github.com/notu97/Matrix-Library
 website: https://notu97.github.io/Matrix-Library/index.html
+affiliation: "Independent Project"
 ---
 A simple Matrix library to perform Matrix operations namely Matrix Multiplication (using Stressan's Algorithm) and Transpose.
