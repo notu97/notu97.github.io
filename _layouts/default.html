@@ -81,8 +81,10 @@
               {% if cat == 'research' %}
               {{post.authors}}<br>
               {% endif %}
-
+              
+              {% if post.affiliation %}
               {{post.affiliation}}
+              {% endif %}
               
               {% if cat == 'research' %}
               <br>
