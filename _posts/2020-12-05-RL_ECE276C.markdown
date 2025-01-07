@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Multi-Agent Reinforcement Learning for Autonomous Driving."
+date:   2020-12-05 22:21:59 +00:00
+image: /images/RL_carla.jpg
+categories: project
+report: /pdfs/ece276c_project_final.pdf
+author: 
+authors: "<strong>Shiladitya Biswas</strong>, Ayon Biswas"
+venue: 
+arxiv: 
+code: 
+website: 
+youtube: 
+affiliation: "UC San Diego"
+---
+We applied the Multi-Agent Deep Deterministic Policy Gradient (MADDPG) algorithm to a multi-agent reinforcement learning scenario involving a four-lane traffic intersection. The performance of MADDPG was compared with the Proximal Policy Optimization (PPO) algorithm to evaluate their effectiveness. To enhance the stability of MADDPG, we incorporated prioritized experience replay (PER) and conducted a detailed analysis of how factors such as batch size, multi-CPU training, and experience collection influence agent performance. We used [CARLA](https://carla.org/) for this project. This was a course project for [ECE276C](https://yip.eng.ucsd.edu/teaching) at UC San Diego.
