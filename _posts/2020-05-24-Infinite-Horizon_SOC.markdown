@@ -2,7 +2,7 @@
 layout: post
 title:  "Infinite-Horizon Stochastic Optimal Control."
 date:   2020-05-24 22:21:59 +00:00
-image: /images/inverted_pendulum.gif
+image: /images/inv_pend.gif
 categories: project
 report: /pdfs/ECE276B_PR3_Report.pdf
 author: 
