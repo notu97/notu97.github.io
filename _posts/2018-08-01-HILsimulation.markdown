@@ -7,9 +7,9 @@ categories: research
 author: "Shiladitya Biswas"
 authors: "<strong>Shiladitya Biswas</strong>, Arun Dayal Udai, Gaurav Kumar"
 venue: International Conference on Computational Intelligence
-arxiv: 
+arxiv: https://link.springer.com/chapter/10.1007/978-981-13-8222-2_16
 code: 
-website: https://link.springer.com/chapter/10.1007/978-981-13-8222-2_16
+website: 
 affiliation: "BIT Mesra"
 ---
 We proposed a Hardware-in-a-Loop simulation technique to test a live robot
