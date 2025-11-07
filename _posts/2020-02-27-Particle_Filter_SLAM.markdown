@@ -4,7 +4,7 @@ title:  "Particle Filter SLAM."
 date:   2020-02-27 22:21:59 +00:00
 image: /images/particle_filter.png
 categories: project
-report: /pdfs/ECE276A_PR2_Report.pdf.pdf
+report: /pdfs/ECE276A_PR2_Report.pdf
 author: 
 authors: "<strong>Shiladitya Biswas</strong>"
 venue:
