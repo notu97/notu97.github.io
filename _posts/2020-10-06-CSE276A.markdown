@@ -13,4 +13,4 @@ website: https://hichristensen.com/CSE276A-24/
 affiliation: "UC San Diego"
 ---
 
-Was a teaching assitant under Prof Henrk Christensen at UC San Diego for the Fall 2020 quarter.
+Was a teaching assistant under Prof Henrk Christensen at UC San Diego for the Fall 2020 quarter.
