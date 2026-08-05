@@ -14,5 +14,5 @@ website:
 youtube: 
 affiliation: "UC San Diego"
 ---
-Implemented Gaussian Discriminant Analysis (GDA)- a supervised learning algorithm, to classifying Red pixles from non-red pixels, and thereby detected stop signs.This was a course project for [ECE276A](https://natanaso.github.io/ece276a2020/) at UC San Diego, hence the code cannot me made public.
+Implemented Gaussian Discriminant Analysis (GDA)- a supervised learning algorithm, to classify Red pixles from non-red pixels, and thereby detected stop signs. This was a course project for [ECE276A](https://natanaso.github.io/ece276a2020/) at UC San Diego.
 
